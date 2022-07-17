@@ -1,0 +1,28 @@
+1.
+Machine learning is a branch of artificial intelligence (AI) and computer science
+ which focuses on the use of data and algorithms to imitate the way that humans learn, 
+gradually improving its accuracy.
+2.
+ Machine learning algorithms have had good results on problems such has spam detection in email,
+ cancer diagnosis, fraudulent credit card transactions, and automatically driving vehicles.
+3.
+A training set is a portion of a data set used to fit (train) a model for prediction or
+classification of values that are known in the training set, but unknown in other (future) data.
+ The training set is used in conjunction with validation and/or test sets that are used to evaluate different models.
+4.
+Two most common supervised tasks are classification and regression.
+5.
+Four common unsupervised tasks inclused clustering, 
+visualization, dimensionality reduction , and association rule learning.
+6.
+The best Machine Learning algorithm to allow a robot to walk in unknown terrain is Reinforced Learning, 
+where the robot can learn from response of the terrain to optimize itself.
+7.
+K-means clustering is a popular unsupervised machine learning algorithm method.
+ In layman terms, it finds all of the different “clusters”
+ and groups them together while keeping them as small as possible.
+ That means that you end up with the most possible customer segments to interpret.
+8.
+The data. Spam detection is a supervised machine learning problem. This means to provide
+ the machine learning model with a set of examples of spam and ham messages
+ and let it find the relevant patterns that separate the two different categories.
